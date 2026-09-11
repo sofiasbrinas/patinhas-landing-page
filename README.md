@@ -123,7 +123,7 @@ Pontos que foram checados durante o desenvolvimento:
 
 ## 🔗 Links de acesso
 
-**Projeto publicado no GitHub Pages**  
+**[Projeto publicado no GitHub Pages](https://sofiasbrinas.github.io/patinhas-landing-page/)**  
 
 ---
 
